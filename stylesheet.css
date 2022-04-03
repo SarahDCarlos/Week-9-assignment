@@ -1,0 +1,77 @@
+div {
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+}
+
+#nav-title {
+    color: white;
+    font-family: 'Sofia', cursive;
+    font-size: 35px;
+}
+
+.nav-font {
+    font-family: 'Sofia', cursive;
+    color:black;
+    font-size: 25px;
+    padding-left:  20px!important;
+    padding-right: 20px;
+}
+
+/*.social-buttons {
+    color: black;
+    margin-left: 145px;
+    margin-right: -130px;
+} */
+
+
+#box {
+    width: 500px;
+    background-color:olive;
+    border: 8px solid black;
+    padding: 30px;
+    margin: 20px;
+    margin-left: 490px;
+    margin-top: 150px;
+  }
+
+/*  #sign-in {
+      padding-left: 200px;
+      font-size: 20px;
+  } */
+
+#divbox{
+    margin-top: 70px;
+    width: 800px;
+    height: 300px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+#font-adjust {
+    font-family: 'Merienda', cursive;
+    font-size: 3rem;
+    transform: rotate(3deg);
+}
+
+#font-adjust2 {
+transform: rotate(-2deg);
+font-family: 'Merienda', cursive;
+font-size: 3rem;
+}
+
+.form {
+   margin-top: 200px;
+   margin-left: 100px;
+}
+
+.form-input {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+
+
+
